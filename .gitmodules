@@ -1,0 +1,3 @@
+[submodule "web-front"]
+	path = web-front
+	url = git@github.com:arium42/web-front.git
